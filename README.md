@@ -6,3 +6,4 @@ Para acessar o jupyter notebook com a resolução deste problema de negócio ace
 
 
 Para acessar o deploy do modelo, acesse o link: [Clique aqui](https://libercapital-app.herokuapp.com/)
+OBS: Por conta do modelo estar hospedado em um nuvem gratuita, problemas de lentidão pode acontecer.
